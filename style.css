@@ -1,0 +1,43 @@
+*{
+    font-family : Verdana, Geneva, Tahoma, sans-serif;
+    margin : 0;
+    border : 0;
+    padding : 0;
+    text-decoration : none;
+}
+
+.navbar{
+    background-color : hotpink;
+    color : #fff;
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-around;
+    margin : 25px 0px 25px 0px;
+    padding : 23px;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-content{
+    background-color : rgb(221, 192, 207);
+    padding : 37px;
+}
+
+.matter{
+    font-weight : 500;
+    line-height : 0.8cm;
+    font-size : medium;
+}
+
+.quote{
+    font-family : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align : center;
+    font-style : italic;
+    font-weight : bolder;
+    font-size : 34px;
+}
+footer{
+    background-color : rgb(220, 134, 177);
+    color : #fff;
+    padding : 24px;
+    font-size : medium;
+}
